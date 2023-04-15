@@ -8,4 +8,4 @@
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[Patika.Dev katkıları için teşekkür ederim...](https://app.patika.de
+[Patika.Dev katkıları için teşekkür ederim...](https://app.patika.dev)
