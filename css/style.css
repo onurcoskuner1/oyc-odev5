@@ -1,0 +1,77 @@
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.article_baslik {
+  text-align: center;
+  color: blueviolet;
+}
+
+.article_altb {
+  text-align: center;
+  color: rgb(204, 173, 0);
+}
+
+/* NAVBAR */
+
+.baslik {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  margin-left: 40px;
+}
+
+.nav_links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.nav_links li {
+  margin: 0 10px;
+}
+
+/* Urunler */
+
+.article_urunler {
+    align-items: center;
+  }
+  
+
+.article_urunler ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.article_urunler li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.urun_numarasi {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.urun_resim img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: 20px;
+}
+
+.urun_bilgi {
+  flex: 1;
+}
+
+/* ABOUT US */
+
+.article_p {
+  text-align: left;
+}
